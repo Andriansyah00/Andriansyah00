@@ -25,9 +25,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andriansyah00&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Andriansyah00&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Andriansyah00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" 
+    height="160"
+  />
 
+  <img 
+    src="https://streak-stats.demolab.com?user=Andriansyah00&theme=tokyonight&hide_border=true&border_radius=12" 
+    height="160"
+  />
 </div>
 
 ###
